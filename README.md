@@ -34,7 +34,8 @@
 ```
 
 ## 📦 Instalação
-```
+
+
 ```bash
 npm install -g gbit-stakin
 ```
@@ -134,7 +135,51 @@ GBIT-STAKIN v1.0.0 - CLI Staking Profissional para o futuro Web3
 <p align="center"> <img src="https://raw.githubusercontent.com/Gislaine-programadora/gbit-stakin/main/demo.gif" width="800"> </p>
 
 
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo gradiente ROSA/PRETO -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF1493"/>
+      <stop offset="50%" style="stop-color:#8B008B"/>
+      <stop offset="100%" style="stop-color:#000000"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Fundo -->
+  <rect width="1200" height="200" fill="url(#grad)" rx="20"/>
+  
+  <!-- Linhas diagonais Web3 -->
+  <g stroke="#FFD700" stroke-width="2" opacity="0.3">
+    <line x1="0" y1="50" x2="1200" y2="150"/>
+    <line x1="0" y1="100" x2="1200" y2="0"/>
+    <line x1="0" y1="150" x2="1200" y2="100"/>
+  </g>
+  
+  <!-- Logo GBIT-STAKIN 3D -->
+  <g font-family="'Courier New', monospace" font-weight="bold" font-size="48" fill="#FFD700" stroke="#FFFFFF" stroke-width="1">
+    <text x="100" y="110" text-anchor="start">🚀 GBIT</text>
+    <text x="100" y="155" text-anchor="start" font-size="36" fill="#FF69B4">STAKIN</text>
+  </g>
+  
+  <!-- Badges -->
+  <g font-family="Verdana, sans-serif" font-size="24" fill="#FFFFFF">
+    <text x="500" y="75" fill="#00FF7F">CLI Web3 Brasil</text>
+    <text x="500" y="105">npm i -g gbit-stakin</text>
+    <text x="500" y="135">v1.0.0 ✨ Sepolia Live</text>
+  </g>
+  
+  <!-- Ícones blockchain -->
+  <g font-size="40" fill="#FFD700">
+    <text x="900" y="85" opacity="0.8">🔗</text>
+    <text x="950" y="85" opacity="0.8">⛓️</text>
+    <text x="1000" y="85" opacity="0.8">💎</text>
+    <text x="1050" y="85" opacity="0.8">⚡</text>
+  </g>
+  
+  <!-- GitHub Stars -->
+  <circle cx="1150" cy="40" r="20" fill="#24292F"/>
+  <text x="1150" y="48" font-size="16" fill="#FFFFFF" text-anchor="middle">⭐</text>
+</svg>
 
-<p align="center">
-<img src="https://github.com/Gislaine-programadora/gbit-stakin/blob/main/banner.png?raw=true" alt="GBIT-STAKIN Banner">
-</p>
+
+
