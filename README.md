@@ -31,7 +31,6 @@
 - **Página do pacote:** [https://www.npmjs.com/package/gbit-stakin](https://www.npmjs.com/package/gbit-stakin)   
 
    [![npm version](https://img.shields.io/npm/v/gbit-stakin.svg)](https://www.npmjs.com/package/gbit-stakin)
-```
 
 # 📦 Instalação
 
