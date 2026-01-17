@@ -30,11 +30,11 @@
 ### 🔗 Link direto para o npm
 - **Página do pacote:** [https://www.npmjs.com/package/gbit-stakin](https://www.npmjs.com/package/gbit-stakin)   
 
-[![npm version](https://img.shields.io/npm/v/gbit-stakin.svg)](https://www.npmjs.com/package/gbit-stakin)
+   [![npm version](https://img.shields.io/npm/v/gbit-stakin.svg)](https://www.npmjs.com/package/gbit-stakin)
 ```
 
 ## 📦 Instalação
-
+```
 ```bash
 npm install -g gbit-stakin
 ```
@@ -132,3 +132,9 @@ GBIT-STAKIN v1.0.0 - CLI Staking Profissional para o futuro Web3
 
 </div>
 <p align="center"> <img src="https://raw.githubusercontent.com/Gislaine-programadora/gbit-stakin/main/demo.gif" width="800"> </p>
+
+
+
+<p align="center">
+<img src="https://github.com/Gislaine-programadora/gbit-stakin/blob/main/banner.png?raw=true" alt="GBIT-STAKIN Banner">
+</p>
