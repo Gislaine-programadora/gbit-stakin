@@ -34,13 +34,13 @@
 ```
 
 ## 📦 Instalação
-
+---
 
 ```bash
 npm install -g gbit-stakin
 ```
 
-🚀 Instalação
+
 # Global NPM CLI
 
 ```bash
@@ -120,7 +120,9 @@ git clone https://github.com/Gislaine-programadora/gbit-stakin
 💖 Autora gislaine-programadora
 
 # cria seu projeto  usando  vite/typescript completo para producao : 
-```
+---
+
+
 ```bash
 npx create-gbit-app "meu-project"
 ```
