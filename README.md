@@ -33,8 +33,8 @@
    [![npm version](https://img.shields.io/npm/v/gbit-stakin.svg)](https://www.npmjs.com/package/gbit-stakin)
 ```
 
-## 📦 Instalação
----
+# 📦 Instalação
+
 
 ```bash
 npm install -g gbit-stakin
